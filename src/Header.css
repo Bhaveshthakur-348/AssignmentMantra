@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  background-color: white;
+  z-index: 100;
+  width: 100%;
+}
+.header__icon1 {
+  height: 100px;
+  margin-left: 20px;
+}
+.header__icon2 {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  width: 15vw;
+  margin-right: 80px;
+}
